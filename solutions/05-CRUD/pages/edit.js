@@ -1,5 +1,5 @@
 import React from 'react';
-import { useMutation, useQuery } from '@apollo/client';
+import { useQuery, useMutation } from "@apollo/client";
 
 // import the NoteForm component
 import NoteForm from '../components/NoteForm';
